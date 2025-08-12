@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (keep models if you want, but usually large)
+data/
+models/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,4 +1,4 @@
-# Netflix Titles — Category Classifier (Movie vs TV Show)
+# Netflix — Category Classifier (Movie vs TV Show)
 
 A clean, portfolio-ready ML project: **predict whether a title is a Movie or a TV Show** using metadata (title/description text, country, rating, duration, etc.).
 

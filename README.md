@@ -10,11 +10,11 @@ The aim is to explore different datasets, algorithms, and real-world problem sta
 ```
 ML-Projects/
 │
-├── project_1/         # First ML project
-├── project_2/         # Second ML project
-├── project_3/         # Third ML project
+├── project_1/         # Netflix — Category Classifier (Movie vs TV Show)
+├── project_2/         # Upcoming
+├── project_3/         # Upcoming
 │   ...
-├── datasets/          # Sample datasets (if allowed)
+├── datasets/          # Sample datasets 
 └── README.md          # You are here
 ```
 
@@ -32,7 +32,7 @@ All projects are implemented using **Python** with various libraries, including:
 ## 📌 Projects Included
 | Project Name | Description | Key Techniques |
 |--------------|-------------|----------------|
-| Netflix Category Classifier | Classifies Netflix titles by genre using metadata | Classification, NLP |
+| Netflix | Category Classifier (Movie vs TV Show) |
 
 
 

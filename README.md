@@ -33,11 +33,9 @@ All projects are implemented using **Python** with various libraries, including:
 | Project Name | Description | Key Techniques |
 |--------------|-------------|----------------|
 | Netflix Category Classifier | Classifies Netflix titles by genre using metadata | Classification, NLP |
-| House Price Prediction | Predicts housing prices using regression models | Feature Engineering, Regression |
-| Customer Segmentation | Segments customers using purchasing data | Clustering, KMeans |
-| Sentiment Analysis | Classifies text sentiment as Positive/Negative | NLP, Text Preprocessing |
 
-*(Add more projects as you build them.)*
+
+
 
 ---
 

@@ -1,7 +1,7 @@
 # 🧠 Machine Learning Projects Collection
 
 Welcome to my **Machine Learning Projects** repository!  
-This repo is a collection of multiple projects built using **Python** and popular **ML/DL libraries**.  
+This repo is a collection of multiple projects built using **Python** and popular **ML libraries**.  
 The aim is to explore different datasets, algorithms, and real-world problem statements while improving hands-on skills.
 
 ---

@@ -32,7 +32,7 @@ All projects are implemented using **Python** with various libraries, including:
 ## 📌 Projects Included
 | Project Name | Description | Key Techniques |
 |--------------|-------------|----------------|
-| Netflix | Category Classifier (Movie vs TV Show) |
+| Netflix | Category Classifier (Movie vs TV Show) | Classification, NLP |
 
 
 
